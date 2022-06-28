@@ -33,7 +33,6 @@ INSTALLED_APPS = [
     "api",
     "reviews",
     "users",
-    "static",
 ]
 
 MIDDLEWARE = [

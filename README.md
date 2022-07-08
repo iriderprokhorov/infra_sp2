@@ -1,7 +1,7 @@
 # Проект YaMDb упакованный в докер
 
 
-### Проект YaMDb https://github.com/iriderprokhorov/api_yamdb
+Сам проект YaMDb расположен тут https://github.com/iriderprokhorov/api_yamdb
 
 ## Шаблон для заполнения env-файла
 
